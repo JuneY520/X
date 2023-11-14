@@ -1,6 +1,11 @@
 # Quantumult-
 ## 简介
  -  本仓库主要用于收集和整理各位大佬写的脚本，以便能够快速找到所需要的项目，更好地服务于QuantumultX使用者。
+href="https://github.com/Sliverkiss/QuantumultX/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Sliverkiss/QuantumultX?color=orange&style=flat-square"></a>
+<a href="https://github.com/Sliverkiss/QuantumultX/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Sliverkiss/QuantumultX?color=red&style=flat-square"></a>
+<a href="https://t.me/sliverkiss"><img alt="Telegram" src="https://img.shields.io/badge/chat-telegram-blue.svg?logo=telegram&style=flat-square"/></a> 
+
+![Visitor Count](https://profile-counter.glitch.me/Sliverkiss/count.svg) 
 
 ------------------------------------------
  ## 免责声明
