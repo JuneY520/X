@@ -2,7 +2,7 @@
 ## 简介
  -  本仓库主要用于收集和整理各位大佬写的脚本，以便能够快速找到所需要的项目，更好地服务于QuantumultX使用者。
 
-##![ Visitor Count](https://profile-counter.glitch.me/JuneY520/count.svg) 
+  ![ Visitor Count](https://profile-counter.glitch.me/JuneY520/count.svg) 
 
 ------------------------------------------
  ## 免责声明
